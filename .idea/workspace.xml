@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="21c13561-85f4-4538-8552-3b010e8ea325" name="Changes" comment="more questions">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/LongestSubstringWithoutRepeating.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/FirstPositiveMissing.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +40,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.FirstPositiveMissing.executor": "Run",
     "Application.Interview.executor": "Run",
     "Application.KokoBananas.executor": "Run",
     "Application.LongestSubstringWithoutRepeating.executor": "Run",
@@ -58,7 +58,20 @@
     "last_opened_file_path": "/Users/abhijeetrathi/IdeaProjects/DSA"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.LongestSubstringWithoutRepeating">
+  <component name="RunManager" selected="Application.FirstPositiveMissing">
+    <configuration name="FirstPositiveMissing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.FirstPositiveMissing" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Interview" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Interview" />
       <module name="DSA" />
@@ -74,19 +87,6 @@
     </configuration>
     <configuration name="LongestSubstringWithoutRepeating" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.LongestSubstringWithoutRepeating" />
-      <module name="DSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.MergeSort" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
@@ -126,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FirstPositiveMissing" />
         <item itemvalue="Application.LongestSubstringWithoutRepeating" />
         <item itemvalue="Application.SubarrayProduct" />
         <item itemvalue="Application.Interview" />
         <item itemvalue="Application.priorityQueue" />
-        <item itemvalue="Application.MergeSort" />
       </list>
     </recent_temporary>
   </component>
