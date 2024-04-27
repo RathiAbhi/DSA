@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="21c13561-85f4-4538-8552-3b010e8ea325" name="Changes" comment="more questions">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/MultiThreadingLearning.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/MultiThreadingLearning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/MultiThread.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +46,7 @@
     "Application.LongestSubstringWithoutRepeating.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MergeSort.executor": "Run",
+    "Application.MultiThread.executor": "Run",
     "Application.MultiThreadingLearning.executor": "Run",
     "Application.RotatedArray.executor": "Run",
     "Application.SpiralMatrix.executor": "Run",
@@ -63,7 +63,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MultiThreadingLearning">
+  <component name="RunManager" selected="Application.MultiThread">
     <configuration name="FirstPositiveMissing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.FirstPositiveMissing" />
       <module name="DSA" />
@@ -77,8 +77,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Interview" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Interview" />
+    <configuration name="LongestSubstringWithoutRepeating" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.LongestSubstringWithoutRepeating" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
@@ -90,8 +90,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestSubstringWithoutRepeating" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.LongestSubstringWithoutRepeating" />
+    <configuration name="MultiThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.MultiThread" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
@@ -131,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MultiThread" />
         <item itemvalue="Application.MultiThreadingLearning" />
         <item itemvalue="Application.FirstPositiveMissing" />
         <item itemvalue="Application.LongestSubstringWithoutRepeating" />
         <item itemvalue="Application.SubarrayProduct" />
-        <item itemvalue="Application.Interview" />
       </list>
     </recent_temporary>
   </component>
