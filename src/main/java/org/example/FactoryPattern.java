@@ -2,7 +2,7 @@ package org.example;
 
 public class FactoryPattern {
 
-    interface Shape(){
+    interface Shape {
         void draw();
     }
 
