@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="21c13561-85f4-4538-8552-3b010e8ea325" name="Changes" comment="more questions">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ReverseLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/TwoSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/practice/MiddleOfLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/practice/PrintWords.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/FactoryPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/FactoryPattern.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +51,7 @@
     "Application.MonitorLock.executor": "Run",
     "Application.MultiThread.executor": "Run",
     "Application.MultiThreadingLearning.executor": "Run",
+    "Application.PrintWords.executor": "Run",
     "Application.ReverseLinkedList.executor": "Run",
     "Application.RotatedArray.executor": "Run",
     "Application.SpiralMatrix.executor": "Run",
@@ -73,9 +71,22 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MiddleOfLinkedList">
+  <component name="RunManager" selected="Application.PrintWords">
     <configuration name="MiddleOfLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.practice.MiddleOfLinkedList" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrintWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.practice.PrintWords" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
@@ -126,26 +137,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValidScore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.ValidScore" />
-      <module name="DSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrintWords" />
         <item itemvalue="Application.MiddleOfLinkedList" />
         <item itemvalue="Application.ReverseLinkedList" />
         <item itemvalue="Application.TwoSum" />
         <item itemvalue="Application.TestPolymorphism" />
-        <item itemvalue="Application.ValidScore" />
       </list>
     </recent_temporary>
   </component>
