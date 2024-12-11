@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="21c13561-85f4-4538-8552-3b010e8ea325" name="Changes" comment="more questions">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/practice/PrintWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/binSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/practice/NestedListWeightSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/solve.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +53,7 @@
     "Application.MonitorLock.executor": "Run",
     "Application.MultiThread.executor": "Run",
     "Application.MultiThreadingLearning.executor": "Run",
+    "Application.NestedListWeightSum.executor": "Run",
     "Application.PrintWords.executor": "Run",
     "Application.ReverseLinkedList.executor": "Run",
     "Application.RotatedArray.executor": "Run",
@@ -60,20 +63,34 @@
     "Application.TwoSum.executor": "Run",
     "Application.ValidScore.executor": "Run",
     "Application.priorityQueue.executor": "Run",
+    "Application.solve.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/abhijeetrathi/IdeaProjects/DSA",
-    "project.structure.last.edited": "Project",
+    "project.structure.last.edited": "Global Libraries",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.PrintWords">
+  <component name="RunManager" selected="Application.solve">
     <configuration name="MiddleOfLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.practice.MiddleOfLinkedList" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NestedListWeightSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.practice.NestedListWeightSum" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
@@ -111,21 +128,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestPolymorphism" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.TestPolymorphism" />
-      <module name="DSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.TwoSum" />
+    <configuration name="solve" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.solve" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
@@ -139,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.solve" />
+        <item itemvalue="Application.NestedListWeightSum" />
         <item itemvalue="Application.PrintWords" />
         <item itemvalue="Application.MiddleOfLinkedList" />
         <item itemvalue="Application.ReverseLinkedList" />
-        <item itemvalue="Application.TwoSum" />
-        <item itemvalue="Application.TestPolymorphism" />
       </list>
     </recent_temporary>
   </component>
